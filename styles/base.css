@@ -1,0 +1,55 @@
+* {
+  background-color: grey;
+  }
+
+img {
+  height: 750px;
+  width: 750px;
+}
+
+h1 {
+  font-family: palatino;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: palatino;
+  font-size: 30;
+}
+
+p {
+  font-family: palatino;
+  font-size: 20;
+}
+
+ul {
+  outline: 1px solid white;
+  padding-left: 0;
+  margin-left: 0;
+  font-family: palatino;
+}
+
+li {
+  outline: 1px solid white;
+  padding-left: 0;
+  margin-left: 0;
+  text-align: center;
+  font-family: palatino;
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    border: 2px;
+    padding: 2px;
+    width: 60px;
+    height: 80px;
+}
+
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+title {
+  text-align: center;
+}

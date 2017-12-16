@@ -1,0 +1,60 @@
+* {
+  /* outline: 1px solid green; */
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  background-color: #060606;
+  background-image: url("../img/car-garage.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* line-height: 1.2; */
+  max-width: none;
+  padding: 10vw 2em;
+  text-align: center;
+
+}
+
+header h1 {
+  font-family: 'Bungee', cursive;
+  color: #FFF;
+  font-size: 3em;
+}
+
+footer {
+  padding: 5px;
+  background-color: #007bff;
+  color: #FFF;
+  text-align: center;
+}
+
+nav.col-sm-4, nav.col-lg-3 {
+  padding-right: 0 !important;
+}
+
+.col-12, .col-sm-4, .col-lg-3, .col-sm-8, .col-lg-9 {
+  padding-left: 0;
+}
+
+.list-group {
+  padding-left: 15px;
+}
+
+.list-group .list-group-item:hover {
+  background-color: #a0caf7;
+  color: #ffffff;
+}
+
+.list-group .active:hover {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+section.col-12 {
+  padding: 30px;
+}
